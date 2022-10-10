@@ -18,12 +18,16 @@ print("Hello " + name)
 # Getting the variables using inputs
 
 print("What is your DOB")
+
 DOB = input()
 
+
 print("Course Name?")
+
 Course_name = input()
 
 print("Are you a UK resident")
+
 UK_resident = input()
 
 
